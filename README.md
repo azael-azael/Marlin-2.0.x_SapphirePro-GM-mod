@@ -4,5 +4,5 @@ Compiled Marlin for Two Trees Sapphire Pro.
 
 Sources in "master"
 
-[ SapphirePro_2021-03-06.zip ]
-Stock hardware.
+
+SapphirePro_2021-03-06.zip : Stock hardware.
